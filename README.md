@@ -1,6 +1,7 @@
 # 🎬 Netflix Data Cleaning & Business Intelligence Project
 
-A complete data cleaning, transformation, and visualisation pipeline applied to the Netflix Movies and TV Shows dataset from Kaggle. This project covers end-to-end data preparation through to relational table design and interactive Tableau dashboards. [Netflix Data Cleaning – Kaggle Notebook](https://www.kaggle.com/code/dylaancodes/cleaning-netflix-data/notebook)
+A complete data cleaning, transformation, and visualisation pipeline applied to the Netflix Movies and TV Shows dataset from Kaggle. This project covers end-to-end data preparation through to relational table design and interactive Tableau dashboards. 
+[Netflix Data Cleaning – Kaggle Notebook](https://www.kaggle.com/code/dylaancodes/cleaning-netflix-data/notebook)
 
 ---
 
